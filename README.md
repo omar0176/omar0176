@@ -17,7 +17,7 @@ I am a recent Software Engineering graduate from the University of Europe for Ap
 
 ### 📂 Featured Projects
 
-#### ☁️ [AWS Zero Trust Cloud Architecture]
+#### ☁️ AWS Zero Trust Cloud Architecture
 * **What it is:** My bachelor's thesis project focusing on cloud security architecture. 
 * **Impact:** Analyzed the cost structure of Zero Trust architectures in AWS and developed a cost-efficient methodology that significantly lowers security operating costs.
 
