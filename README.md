@@ -32,5 +32,5 @@ I am a recent Software Engineering graduate from the University of Europe for Ap
 ### 📫 Let's Connect
 * **Email:** omark905@outlook.com 
 * **LinkedIn:** https://www.linkedin.com/in/omar-khamis00/
-* **Personal Website:** omarkh-portfolio.vercel.app/
+* **Personal Website:** https://www.omarkh-portfolio.vercel.app/
 * **Certifications:** Fortinet Cybersecurity Associate 
