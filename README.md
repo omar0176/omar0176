@@ -1,4 +1,4 @@
-# Hi there, I'm Omar Khamis! 
+# Hi there, I'm Omar! 
 
 **Software Engineering Graduate | Cloud Security | Fullstack Development**
 
