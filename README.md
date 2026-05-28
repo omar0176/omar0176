@@ -6,12 +6,12 @@ I am a recent Software Engineering graduate from the University of Europe for Ap
 
 ### 🚀 What I'm Up To
 * 🎓 Recently graduated with a Bachelor's in Software Engineering (March 2026).
-* 💼 Actively seeking Junior Software Engineering or Cloud/Network Security roles.
-* 🔐 Continuing to expand my practical knowledge in AWS and Zero Trust architectures.
+* 💼 Actively seeking Junior Frontend Development or Cloud/Network Security roles.
+* 🔐 Continuing to expand my practical knowledge in Frontend Development, AWS and Zero Trust architectures.
 
 ### 🛠️ Tech Stack
-* **Languages:** Python, C++, Java, Dart, JavaScript, HTML/CSS 
-* **Frameworks & Tools:** Flutter, Terraform, Pandas, Scikit-learn, Postman
+* **Languages:** Python, C++, TypeScript, Java, Dart, JavaScript, HTML/CSS 
+* **Frameworks & Tools:** Flutter, Terraform, Pandas, Scikit-learn, Postman, RESTful APIs
 * **Cloud & Security:** AWS, Fortinet (FortiGate, FortiAnalyzer, FortiSIEM)
 * **Methodologies:** Agile Development, Zero Trust Architecture
 
