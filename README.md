@@ -2,15 +2,15 @@
 
 **Software Engineering Graduate | Cloud Security | Fullstack Development**
 
-I am a recent Software Engineering graduate from the University of Europe for Applied Sciences. I specialize in bridging the gap between software development and cloud security. With hands-on experience in a SOC/NOC environment and fluency in German, English, and Arabic, I am passionate about building secure, efficient, and scalable systems.
+I am a recent Software Engineering graduate from the University of Europe for Applied Sciences. I specialize in bridging the gap between software development and cloud security. With hands-on experience in a SOC/NOC environment and fluency in German, English, and Arabic, I am passionate about building secure, efficient, and scalable systems. Additionally, I do some freelance software development on the side.
 
 ### 🚀 What I'm Up To
 * 🎓 Recently graduated with a Bachelor's in Software Engineering (March 2026).
-* 💼 Actively seeking Junior Frontend Development or Cloud/Network Security roles.
+* 💼 Actively seeking Junior Software Development or Cloud/Network Security roles.
 * 🔐 Continuing to expand my practical knowledge in Frontend Development, AWS and Zero Trust architectures.
 
 ### 🛠️ Tech Stack
-* **Languages:** Python, C++, TypeScript, Java, Dart, JavaScript, HTML/CSS 
+* **Languages:** Python, C++, TypeScript, Java, Dart, JavaScript, HTML/CSS, SQL
 * **Frameworks & Tools:** Flutter, Terraform, Pandas, Scikit-learn, Postman, RESTful APIs
 * **Cloud & Security:** AWS, Fortinet (FortiGate, FortiAnalyzer, FortiSIEM)
 * **Methodologies:** Agile Development, Zero Trust Architecture
